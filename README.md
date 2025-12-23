@@ -120,3 +120,6 @@ python manage.py runserver
 - La arquitectura modular del proyecto mejora la mantenibilidad y escalabilidad.
 - Una de las principales conclusiones técnicas obtenidas durante el desarrollo de este proyecto es que Django y Django REST Framework simplifican considerablemente la implementación de operaciones CRUD en comparación con otros frameworks. Esto se debe a que Django proporciona un ORM robusto, una gestión automática de migraciones y una integración nativa con serializers y vistas, lo que reduce significativamente la cantidad de código necesario para realizar operaciones comunes sobre la base de datos.
 - DRF ofrece herramientas que facilitan la validación de datos, el manejo de errores HTTP y la serialización automática de objetos, permitiendo que el desarrollador se enfoque más en la lógica de negocio que en tareas repetitivas o de bajo nivel.
+
+## URL: 
+https://github.com/alevm569/APIs-con-Django
